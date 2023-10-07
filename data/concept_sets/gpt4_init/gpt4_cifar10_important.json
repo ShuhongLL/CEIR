@@ -1,0 +1,119 @@
+{
+    "airplane": [
+        "aerodynamic shape",
+        "airplane",
+        "cockpit windows",
+        "jet engines",
+        "large wings",
+        "long, narrow body",
+        "tail fin"
+    ],
+    "automobile": [
+        "a rectangular metal body",
+        "automobile",
+        "four rubber tires",
+        "four wheels",
+        "front and rear headlights",
+        "headlights",
+        "metallic body",
+        "rear view mirrors",
+        "seats",
+        "side and rearview mirrors",
+        "steering wheel",
+        "windshield"
+    ],
+    "bird": [
+        "a small, light body",
+        "beak",
+        "bird",
+        "clawed feet",
+        "claws",
+        "feathers",
+        "tail feathers",
+        "wings"
+    ],
+    "cat": [
+        "cat",
+        "furry body",
+        "long tail",
+        "pointed ears",
+        "pointy ears",
+        "sharp claws",
+        "soft fur",
+        "tail",
+        "whiskers"
+    ],
+    "deer": [
+        "a sleek, brown body",
+        "a white tail",
+        "antlers (on males)",
+        "deer",
+        "large, alert ears",
+        "long, pointed antlers (in males)",
+        "long, slender legs",
+        "tan or brown fur",
+        "white spots (in some species)"
+    ],
+    "dog": [
+        "dog",
+        "four legs",
+        "furry coat",
+        "long tail",
+        "pointed ears",
+        "snout nose",
+        "wagging tail",
+        "wet nose"
+    ],
+    "frog": [
+        "a small, compact body",
+        "a wide mouth",
+        "bulging eyes",
+        "frog",
+        "green or brown color",
+        "green or brown skin",
+        "long, jumping hind legs",
+        "long, strong hind legs",
+        "smooth, moist skin",
+        "webbed feet"
+    ],
+    "horse": [
+        "a long mane",
+        "a tail",
+        "big, round eyes",
+        "brown, black, or white fur",
+        "flat, elongated snout",
+        "flowing mane and tail",
+        "hooves",
+        "horse",
+        "large body size",
+        "large, muscular body",
+        "large, round eyes",
+        "long, muscular legs",
+        "long, slender legs"
+    ],
+    "ship": [
+        "anchor",
+        "anchor system",
+        "deck on top",
+        "large sails",
+        "large size",
+        "large, elongated structure",
+        "long, narrow body",
+        "multiple sails or engines",
+        "rigging ropes",
+        "ship",
+        "tall masts"
+    ],
+    "truck": [
+        "four hefty tires",
+        "front cab section",
+        "front cabin",
+        "heavy-duty bumper",
+        "heavy-duty tires",
+        "large cargo area",
+        "large, rectangular body",
+        "powerful engine",
+        "rear cargo area",
+        "truck"
+    ]
+}

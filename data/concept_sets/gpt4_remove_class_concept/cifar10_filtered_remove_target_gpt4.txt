@@ -1,0 +1,168 @@
+ a collar
+ a driver
+ a forest
+ a leash
+ a lily pad
+ a litter box
+ a road
+ a runway
+ a stable
+ ocean water
+ water
+a bed
+a birdhouse
+a bone
+a bowl
+a bridle
+a cargo
+a compass
+a control tower
+a dock
+a dog bed
+a dog bowl
+a dog owner
+a dog toy
+a fence
+a flight attendant
+a hangar
+a hay bale
+a hoof pick
+a hunter
+a lifebuoy
+a lighthouse
+a log
+a long mane
+a luggage
+a nest
+a parking lot
+a passenger
+a pilot
+a pond
+a rectangular metal body
+a rider
+a saddle
+a sailor
+a scratching post
+a seatbelt
+a sleek, brown body
+a small, light body
+a steering wheel
+a stream
+a tail
+a telescope
+a tire
+a toy
+a toy mouse
+a traffic signal
+a trailer
+a tray table
+a tree
+a water bowl
+a water trough
+a white tail
+a wide mouth
+aerodynamic shape
+air traffic control tower
+algae
+amphibian
+an airplane wing
+an airport
+an engine
+anchor
+anchor system
+antlers (on males)
+beak
+berries
+brown, black, or white fur
+bulging eyes
+cat food
+catnip
+clawed feet
+claws
+clouds
+cockpit windows
+containers
+craft
+deck
+deck on top
+dog food
+eggs
+fawn
+flat, elongated snout
+flowing mane and tail
+four legs
+four rubber tires
+four wheels
+front and rear headlights
+front cab section
+front cabin
+fuel station
+furry body
+furry coat
+garage
+grass
+green or brown color
+green or brown skin
+hay
+headlights
+heavy-duty bumper
+heavy-duty tires
+hooves
+horseshoes
+insects
+jet engines
+large cargo area
+large size
+large wings
+large, alert ears
+large, elongated structure
+large, muscular body
+large, rectangular body
+large, round eyes
+leaves
+long tail
+long, muscular legs
+long, narrow body
+long, strong hind legs
+machine
+mammal
+metallic body
+mud
+multiple sails or engines
+passengers
+pointy ears
+powerful engine
+reeds
+rigging ropes
+ropes
+sailors
+sails
+seats
+seeds
+side and rearview mirrors
+sky
+smooth, moist skin
+snout nose
+soft fur
+stones
+stream
+structure
+tail feathers
+tail fin
+tall masts
+tan or brown fur
+toys
+traffic lights
+transportation
+tree branches
+trees
+vertebrate
+wagging tail
+watercraft
+webbed feet
+wet nose
+whiskers
+white spots (in some species)
+windshield
+wings
+worms

@@ -1,0 +1,66 @@
+{
+    "airplane": [
+        "airplane",
+        "craft",
+        "machine",
+        "transportation",
+        "vehicle"
+    ],
+    "automobile": [
+        "automobile",
+        "machinery",
+        "transportation",
+        "vehicle"
+    ],
+    "bird": [
+        "animal",
+        "avian",
+        "bird",
+        "vertebrate"
+    ],
+    "cat": [
+        "animal",
+        "cat",
+        "feline",
+        "mammal",
+        "pet"
+    ],
+    "deer": [
+        "animal",
+        "deer",
+        "mammal",
+        "vertebrate"
+    ],
+    "dog": [
+        "animal",
+        "dog",
+        "mammal",
+        "pet"
+    ],
+    "frog": [
+        "amphibian",
+        "animal",
+        "frog",
+        "vertebrate"
+    ],
+    "horse": [
+        "animal",
+        "horse",
+        "mammal",
+        "vertebrate"
+    ],
+    "ship": [
+        "ship",
+        "structure",
+        "transportation",
+        "vehicle",
+        "watercraft"
+    ],
+    "truck": [
+        "machine",
+        "machinery",
+        "transportation",
+        "truck",
+        "vehicle"
+    ]
+}

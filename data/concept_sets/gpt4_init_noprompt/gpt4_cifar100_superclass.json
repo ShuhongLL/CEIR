@@ -1,0 +1,564 @@
+{
+    "apple": [
+        "fruit",
+        "organic matter",
+        "organism",
+        "plant"
+    ],
+    "aquarium fish": [
+        "animal",
+        "fish",
+        "pet"
+    ],
+    "baby": [
+        "animal",
+        "human",
+        "living being",
+        "mammal"
+    ],
+    "bear": [
+        "animal",
+        "mammal",
+        "vertebrate"
+    ],
+    "beaver": [
+        "animal",
+        "mammal",
+        "rodent"
+    ],
+    "bed": [
+        "furniture",
+        "household item",
+        "item",
+        "object"
+    ],
+    "bee": [
+        "animal",
+        "arthropod",
+        "insect"
+    ],
+    "beetle": [
+        "animal",
+        "arthropod",
+        "insect"
+    ],
+    "bicycle": [
+        "object",
+        "transportation",
+        "transportation device",
+        "vehicle"
+    ],
+    "bottle": [
+        "container",
+        "object",
+        "packaging",
+        "storage item"
+    ],
+    "bowl": [
+        "container",
+        "dishware",
+        "object"
+    ],
+    "boy": [
+        "human",
+        "living being",
+        "male",
+        "organism",
+        "youth"
+    ],
+    "bridge": [
+        "architecture",
+        "artificial environment",
+        "object",
+        "structure",
+        "transport infrastructure"
+    ],
+    "bus": [
+        "object",
+        "transportation",
+        "vehicle"
+    ],
+    "butterfly": [
+        "animal",
+        "arthropod",
+        "insect"
+    ],
+    "camel": [
+        "animal",
+        "mammal",
+        "vertebrate"
+    ],
+    "can": [
+        "container",
+        "metal item",
+        "object"
+    ],
+    "castle": [
+        "architecture",
+        "building",
+        "structure"
+    ],
+    "caterpillar": [
+        "animal",
+        "arthropod",
+        "insect",
+        "organism"
+    ],
+    "cattle": [
+        "animal",
+        "livestock",
+        "mammal"
+    ],
+    "chair": [
+        "furniture",
+        "household item",
+        "object",
+        "seat"
+    ],
+    "chimpanzee": [
+        "animal",
+        "mammal",
+        "primate"
+    ],
+    "clock": [
+        "device",
+        "object",
+        "timepiece"
+    ],
+    "cloud": [
+        "atmospheric feature",
+        "atmospheric phenomenon",
+        "natural phenomenon",
+        "water vapor formation",
+        "weather phenomenon"
+    ],
+    "cockroach": [
+        "animal",
+        "arthropod",
+        "insect"
+    ],
+    "couch": [
+        "furniture",
+        "home accessory",
+        "household item",
+        "object"
+    ],
+    "crab": [
+        "animal",
+        "arthropod",
+        "crustacean",
+        "seafood"
+    ],
+    "crocodile": [
+        "animal",
+        "reptile",
+        "vertebrate"
+    ],
+    "cup": [
+        "container",
+        "dishware",
+        "drinkware",
+        "object"
+    ],
+    "dinosaur": [
+        "animal",
+        "extinct species",
+        "organism",
+        "reptile",
+        "vertebrate"
+    ],
+    "dolphin": [
+        "animal",
+        "aquatic animal",
+        "mammal",
+        "vertebrate"
+    ],
+    "elephant": [
+        "animal",
+        "mammal",
+        "vertebrate"
+    ],
+    "flatfish": [
+        "animal",
+        "fish",
+        "marine animal",
+        "vertebrate"
+    ],
+    "forest": [
+        "biome",
+        "ecosystem",
+        "geographical feature",
+        "natural environment",
+        "place"
+    ],
+    "fox": [
+        "animal",
+        "mammal",
+        "vertebrate"
+    ],
+    "girl": [
+        "being",
+        "female",
+        "human",
+        "living being",
+        "mammal"
+    ],
+    "hamster": [
+        "animal",
+        "mammal",
+        "rodent"
+    ],
+    "house": [
+        "building",
+        "dwelling",
+        "object",
+        "place",
+        "property",
+        "real estate",
+        "residence",
+        "structure"
+    ],
+    "kangaroo": [
+        "animal",
+        "mammal",
+        "marsupial"
+    ],
+    "keyboard": [
+        "electronic device",
+        "hardware",
+        "input device",
+        "object"
+    ],
+    "lamp": [
+        "electrical device",
+        "lighting device",
+        "lighting equipment",
+        "object"
+    ],
+    "lawn mower": [
+        "garden tool",
+        "machine",
+        "object",
+        "tool"
+    ],
+    "leopard": [
+        "animal",
+        "carnivore",
+        "feline",
+        "mammal",
+        "organism"
+    ],
+    "lion": [
+        "animal",
+        "carnivore",
+        "feline",
+        "mammal",
+        "vertebrate"
+    ],
+    "lizard": [
+        "animal",
+        "reptile",
+        "vertebrate"
+    ],
+    "lobster": [
+        "animal",
+        "arthropod",
+        "crustacean",
+        "marine animal",
+        "seafood"
+    ],
+    "man": [
+        "animal",
+        "homo sapiens",
+        "human",
+        "living being",
+        "mammal",
+        "primate"
+    ],
+    "maple tree": [
+        "living organism",
+        "organism",
+        "plant",
+        "tree"
+    ],
+    "motorcycle": [
+        "object",
+        "transportation",
+        "vehicle"
+    ],
+    "mountain": [
+        "geological formation",
+        "landform",
+        "natural feature",
+        "natural formation",
+        "object"
+    ],
+    "mouse": [
+        "animal",
+        "mammal",
+        "rodent"
+    ],
+    "mushroom": [
+        "fungus",
+        "living thing",
+        "organism"
+    ],
+    "oak tree": [
+        "living organism",
+        "organism",
+        "plant",
+        "tree"
+    ],
+    "orange": [
+        "food",
+        "fruit",
+        "plant product"
+    ],
+    "orchid": [
+        "flowering plant",
+        "living organism",
+        "plant"
+    ],
+    "otter": [
+        "animal",
+        "mammal",
+        "vertebrate"
+    ],
+    "palm tree": [
+        "organism",
+        "plant",
+        "tree"
+    ],
+    "pear": [
+        "fruit",
+        "organism",
+        "plant"
+    ],
+    "pickup truck": [
+        "automobile",
+        "transportation",
+        "vehicle"
+    ],
+    "pine tree": [
+        "living organism",
+        "organism",
+        "plant",
+        "tree"
+    ],
+    "plain": [
+        "geographical feature",
+        "landform",
+        "landscape",
+        "natural object",
+        "region"
+    ],
+    "plate": [
+        "container",
+        "dishware",
+        "object"
+    ],
+    "poppy": [
+        "flower",
+        "organism",
+        "plant"
+    ],
+    "porcupine": [
+        "animal",
+        "mammal",
+        "rodent"
+    ],
+    "possum": [
+        "animal",
+        "mammal",
+        "vertebrate"
+    ],
+    "rabbit": [
+        "animal",
+        "mammal",
+        "vertebrate"
+    ],
+    "raccoon": [
+        "animal",
+        "mammal",
+        "vertebrate"
+    ],
+    "ray": [
+        "animal",
+        "fish",
+        "marine animal",
+        "sea creature",
+        "vertebrate"
+    ],
+    "road": [
+        "geographical feature",
+        "pathway",
+        "transportation infrastructure"
+    ],
+    "rocket": [
+        "object",
+        "spacecraft",
+        "vehicle"
+    ],
+    "rose": [
+        "flower",
+        "living organism",
+        "living thing",
+        "plant"
+    ],
+    "sea": [
+        "body of water",
+        "geographical feature",
+        "natural environment",
+        "natural formation"
+    ],
+    "seal": [
+        "animal",
+        "mammal",
+        "vertebrate"
+    ],
+    "shark": [
+        "animal",
+        "fish",
+        "vertebrate"
+    ],
+    "shrew": [
+        "animal",
+        "mammal",
+        "vertebrate"
+    ],
+    "skunk": [
+        "animal",
+        "carnivore",
+        "mammal",
+        "vertebrate"
+    ],
+    "skyscraper": [
+        "building",
+        "object",
+        "structure"
+    ],
+    "snail": [
+        "animal",
+        "invertebrate",
+        "mollusk"
+    ],
+    "snake": [
+        "animal",
+        "reptile",
+        "vertebrate"
+    ],
+    "spider": [
+        "animal",
+        "arachnid",
+        "invertebrate"
+    ],
+    "squirrel": [
+        "animal",
+        "mammal",
+        "rodent"
+    ],
+    "streetcar": [
+        "object",
+        "transportation",
+        "vehicle"
+    ],
+    "sunflower": [
+        "flower",
+        "flowering plant",
+        "organism",
+        "plant"
+    ],
+    "sweet pepper": [
+        "food",
+        "organism",
+        "plant",
+        "vegetable"
+    ],
+    "table": [
+        "furniture",
+        "household item",
+        "object",
+        "wooden structure"
+    ],
+    "tank": [
+        "armored vehicle",
+        "military equipment",
+        "object",
+        "vehicle"
+    ],
+    "telephone": [
+        "communication device",
+        "electronic device",
+        "object"
+    ],
+    "television": [
+        "appliance",
+        "communication device",
+        "electronic device",
+        "object"
+    ],
+    "tiger": [
+        "animal",
+        "carnivore",
+        "feline",
+        "mammal"
+    ],
+    "tractor": [
+        "machinery",
+        "object",
+        "vehicle"
+    ],
+    "train": [
+        "object",
+        "transportation",
+        "vehicle"
+    ],
+    "trout": [
+        "animal",
+        "fish",
+        "vertebrate"
+    ],
+    "tulip": [
+        "flower",
+        "organism",
+        "plant"
+    ],
+    "turtle": [
+        "animal",
+        "reptile",
+        "vertebrate"
+    ],
+    "wardrobe": [
+        "furniture",
+        "object",
+        "storage equipment",
+        "storage unit"
+    ],
+    "whale": [
+        "animal",
+        "mammal",
+        "vertebrate"
+    ],
+    "willow tree": [
+        "living organism",
+        "organism",
+        "plant",
+        "tree"
+    ],
+    "wolf": [
+        "animal",
+        "carnivore",
+        "mammal"
+    ],
+    "woman": [
+        "animal",
+        "human",
+        "living being",
+        "mammal"
+    ],
+    "worm": [
+        "animal",
+        "invertebrate",
+        "organism"
+    ]
+}

@@ -1,0 +1,160 @@
+ a driver
+ a leash
+ a litter box
+ a road
+ a runway
+ a saddle
+ a tree
+ feathers
+ forest
+ ocean
+ water
+a ball
+a banana
+a birdbath
+a birdcage
+a bone
+a bowl
+a branch
+a bridle
+a collar
+a control panel
+a dashboard
+a fence
+a flight attendant
+a hoof pick
+a jungle
+a kennel
+a license plate
+a long tail
+a metal body
+a nest
+a parking lot
+a passenger
+a person
+a pet bed
+a pilot
+a rearview mirror
+a rectangular windshield
+a rider
+a row of black keys
+a row of white keys
+a scratching post
+a seatbelt
+a stable
+a steering wheel
+a suitcase
+a tire swing
+a toy
+a toy mouse
+a trailer
+a trunk
+a water bowl
+a white tail
+a window
+a wooden body
+a zoo
+a zookeeper
+acorns
+an airport
+an overhead bin
+anchor
+antlers
+bananas
+beak
+birdhouse
+black or brown color
+boxy shape
+broad chest
+brown fur
+cab section
+cargo
+cargo bed at the back
+cat food
+catnip
+clawed feet
+cockpit windows
+compass
+control tower
+craft
+crew members
+cylindrical body
+deck area
+dock
+elongated structure
+flat face
+four black tires
+four large wheels
+four legs
+four rubber tires
+front and rear lights
+front cab section
+front grille
+fuel station
+fur
+furry body
+furry coat
+grass
+hay
+headlights
+headlights and taillights
+hooves
+horseshoes
+human-like hands
+jet engines
+large body size
+large eyes
+large size
+large wings
+large, doe eyes
+large, elongated body
+large, rectangular shape
+large, sensitive ears
+leaves
+lifeboats
+lifebuoy
+long limbs
+long mane
+long, flexible tail
+long, muscular body
+long, slender legs
+luggage
+machine
+mammal
+navigation maps
+opposable thumbs
+passengers
+pilots
+pointy ears
+primate face
+radar equipment
+rectangular cargo area
+reins
+ropes
+sailors
+sails
+seagulls
+seeds
+sharp claws
+side mirrors
+sky
+small, round eyes
+soft fur
+structure
+sturdy hull
+tail fin
+tail hair
+tall mast
+tires
+traffic
+traffic lights
+transportation
+trees
+vertebrate
+vessel
+water stream
+wet nose
+whiskers
+windows
+wings
+worms

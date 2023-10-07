@@ -1,0 +1,137 @@
+{
+    "aquatic mammals": [
+        "animals",
+        "aquatic mammals",
+        "beings",
+        "mammals",
+        "organisms"
+    ],
+    "fish": [
+        "animal",
+        "fish",
+        "organism",
+        "vertebrate"
+    ],
+    "flowers": [
+        "flowers",
+        "living thing",
+        "nature",
+        "organism",
+        "plant"
+    ],
+    "food containers": [
+        "container",
+        "food containers",
+        "object",
+        "storage item"
+    ],
+    "fruit and vegetables": [
+        "food",
+        "fruit and vegetables",
+        "objects",
+        "organic matter",
+        "plant products"
+    ],
+    "household electrical devices": [
+        "appliance",
+        "appliances",
+        "device",
+        "electronics",
+        "household electrical devices",
+        "object",
+        "objects"
+    ],
+    "household furniture": [
+        "furniture",
+        "household furniture",
+        "household item",
+        "items",
+        "object",
+        "possessions"
+    ],
+    "insects": [
+        "animals",
+        "arthropods",
+        "insects",
+        "organisms"
+    ],
+    "large carnivores": [
+        "animal",
+        "animals",
+        "carnivore",
+        "large carnivores",
+        "mammal",
+        "mammals",
+        "organisms"
+    ],
+    "large man-made outdoor things": [
+        "architecture",
+        "constructions",
+        "landmarks",
+        "large man-made outdoor things",
+        "objects",
+        "structures"
+    ],
+    "large natural outdoor scenes": [
+        "environment",
+        "landscape",
+        "large natural outdoor scenes",
+        "nature",
+        "scenery"
+    ],
+    "large omnivores and herbivores": [
+        "animal",
+        "animals",
+        "large omnivores and herbivores",
+        "mammal",
+        "mammals",
+        "organism",
+        "organisms"
+    ],
+    "medium mammals": [
+        "animals",
+        "beings",
+        "mammals",
+        "medium mammals",
+        "organisms"
+    ],
+    "non-insect invertebrates": [
+        "animal",
+        "invertebrate",
+        "non-insect invertebrates",
+        "organism",
+        "species"
+    ],
+    "people": [
+        "human",
+        "mammal",
+        "organism",
+        "people"
+    ],
+    "reptiles": [
+        "animal",
+        "organism",
+        "reptiles",
+        "vertebrate"
+    ],
+    "small mammals": [
+        "animals",
+        "mammals",
+        "organisms",
+        "small mammals"
+    ],
+    "trees": [
+        "living organism",
+        "living thing",
+        "natural structure",
+        "organism",
+        "plant",
+        "trees"
+    ],
+    "vehicles": [
+        "machine",
+        "object",
+        "transportation",
+        "vehicles"
+    ]
+}

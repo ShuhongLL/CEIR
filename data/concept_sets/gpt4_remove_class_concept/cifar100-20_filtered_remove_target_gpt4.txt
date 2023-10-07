@@ -1,0 +1,356 @@
+ a building
+ a burrow
+ a couch
+ a road
+ a shell
+ a skyscraper
+ ants
+ apples
+ clothes
+ food
+ forest
+ fur
+ grass
+ leaves
+ mountains
+ power cord
+ power sockets
+ prey
+ prey animals
+ scales
+ terrarium
+ towering height
+ towering structures
+ water
+a GPS device
+a aquarium
+a bed
+a billboard
+a bowl
+a bridge
+a cabinet
+a carpet
+a chair
+a coral
+a coral reef
+a curtains
+a cushion
+a cutting board
+a dashboard
+a desk
+a dining set
+a drawer
+a driver
+a fork
+a fridge
+a garage
+a grocery store
+a head with facial features
+a kitchen
+a kitchen counter
+a knife
+a lamp
+a lamp post
+a license plate
+a lid
+a lunch bag
+a marine habitat
+a market stand
+a microwave
+a mirror
+a napkin
+a park
+a parking lot
+a passenger
+a picture frame
+a playground
+a rock
+a sea water
+a seat belt
+a shelf
+a shopping bag
+a slime trail
+a spoon
+a statue
+a steering wheel
+a streamlined body
+a table
+a tail
+a television
+a tentacle
+a wardrobe
+a web
+absence of segmented body
+accessories
+animal
+animals
+antennae
+appliance
+architecture
+bananas
+bark
+batteries
+battery
+bees
+beings
+berries
+bird nests
+birds
+blowhole on top of the head
+boats
+bones
+branches
+branching limbs
+bright pink or white blossoms
+bright, vibrant colors
+broad leaves
+broad teeth
+broccoli
+brown bark
+bubbles
+buildings
+butterflies
+buttons or switches
+car keys
+carrots
+clawed feet
+claws
+clear or opaque color
+clouds
+cluster of pine cones
+cold-blooded nature
+colorful petals
+colorful skin or peel
+compound eyes
+constructions
+container
+covering of fur
+crystal clear lakes
+cucumbers
+curved handle
+delicate petals
+device
+distant mountains
+distinct pine scent
+divers
+diverse diet
+diverse gut flora
+drinks
+ears
+electrical cords
+electronics
+environment
+environmental impact
+evergreen color
+exoskeleton
+eyes
+fins
+fins on sides and back
+flat end
+flippers or fins
+floral scent
+food dish
+food source
+fortified battlements
+four legs
+four wheels
+four-legged creature
+fresh, juicy flesh
+fresh, ripe smell
+front and rear lights
+fruit
+fuel station
+functional design
+fur or hair
+furry body
+furry coat
+gills
+gills on each side
+glass windows
+grains
+grasslands
+green leaves
+green stems
+habitat
+hair on head
+handbags
+hard or soft cover
+hats
+headlights and taillights
+heat lamp
+heavy wooden gates
+horizon
+household item
+human
+human engineering design
+human-made designs
+imposing stone walls
+items
+jewelry
+lack of wings
+lake
+landmarks
+landscape
+large bodies of water
+large rocks
+large size
+leafy foliage
+legs
+legs or supports
+lettuce
+lid or cover
+light bulb
+light indicators
+living thing
+location in public spaces
+long cylindrical shape
+long tail
+lush greenery
+machine
+mammal
+mammalian ears
+mammalian features
+meat diet evidence
+medium-sized body
+metal body
+metal or concrete materials
+mobile phones
+moderate size
+moist, smooth skin
+moon
+multiple legs or tentacles
+muscular limbs
+narrow grip area
+natural structure
+natural, uneven texture
+nature
+no antennas
+no backbone
+nuts
+objects
+ocean.
+offspring
+one or two pairs of wings
+onions
+open fields
+oranges
+organic matter
+organism
+organisms
+oval or elongated body
+passengers
+paws
+pears
+pebbles
+plant and meat diet
+plant products
+plants
+plastic or glass material
+plastic or metal casing
+plug socket
+pollen
+pollen center
+possessions
+potatoes
+power cord or batteries
+powerful jaws
+predator
+predatory eyes
+presence of soft body
+printed text
+remote control
+ribbon
+rivers
+rocks
+rolling hills
+root system
+roots
+rough bark
+round cherries
+round shape
+sand
+savannah
+scales covering body
+scaly skin
+scenery
+sealable edges
+seats
+seaweed
+seeds or pits inside
+seeds or stamen in the center
+sharp, needle-like leaves
+shells
+shoes
+side mirrors
+six jointed legs
+sky
+small body
+small ears
+small size
+small, sharp teeth
+snout
+snow
+soft body parts
+soil
+solid, durable materials
+species
+spectacles
+spider webs
+spine
+squirrels
+stable structure
+stars
+stems
+storage capacity
+storage item
+strawberries
+street signs
+strong jaw muscles
+structures
+substrate
+sun
+sweeping landscapes
+switches
+tail at the end
+tail flukes
+tail presence
+tall, rounded towers
+tall, slender trunk
+teeth
+thick layer of blubber
+tomatoes
+traffic lights
+trail
+transportation
+two arms
+two eyes
+upholstery or cushioning
+upright posture
+user manual
+utensils
+varied colors
+varied shapes and sizes
+variety of sizes
+vase
+vast sky
+ventilation slots
+vertebrate
+visible from a distance
+water bowl
+water source
+waterfall
+waves
+webs
+wheels
+whiskers
+white or cream pages
+white, fluffy seeds
+wide rivers
+wide sky
+wilderness
+wildlife
+windows
+wings
+wood or metal material
+yellow petals
+zoo enclosure

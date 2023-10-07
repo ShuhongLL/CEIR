@@ -1,0 +1,121 @@
+{
+    "airplane": [
+        "airplane",
+        "cockpit windows",
+        "cylindrical body",
+        "jet engines",
+        "large wings",
+        "tail fin"
+    ],
+    "bird": [
+        "beak",
+        "bird",
+        "clawed feet",
+        "feathers",
+        "tail feathers",
+        "wings"
+    ],
+    "car": [
+        "a metal body",
+        "a rectangular windshield",
+        "a row of black keys",
+        "a row of white keys",
+        "a steering wheel",
+        "a wooden body",
+        "black or brown color",
+        "car",
+        "doorsList the most important features for recognizing something as a \"piano\":",
+        "four black tires",
+        "four rubber tires",
+        "front and rear lights",
+        "large, rectangular shape",
+        "windows"
+    ],
+    "cat": [
+        "a long tail",
+        "cat",
+        "furry body",
+        "long tail",
+        "pointed ears",
+        "pointy ears",
+        "round eyes",
+        "sharp claws",
+        "small, round eyes",
+        "soft fur",
+        "whiskers"
+    ],
+    "deer": [
+        "a white tail",
+        "antlers",
+        "antlers (for males)",
+        "brown fur",
+        "deer",
+        "large, doe eyes",
+        "large, sensitive ears",
+        "long, slender legs",
+        "white tail"
+    ],
+    "dog": [
+        "dog",
+        "four legs",
+        "furry body",
+        "furry coat",
+        "long tail",
+        "pointed ears",
+        "wet nose"
+    ],
+    "horse": [
+        "broad chest",
+        "four strong legs",
+        "hooves",
+        "horse",
+        "large body size",
+        "large eyes",
+        "large size",
+        "large, expressive eyes",
+        "long mane",
+        "long tail",
+        "long, flowing mane",
+        "long, muscular body",
+        "long, muscular legs",
+        "tail hair"
+    ],
+    "monkey": [
+        "flat face",
+        "furry body",
+        "human-like hands",
+        "large eyes",
+        "long limbs",
+        "long tail",
+        "long, flexible tail",
+        "monkey",
+        "opposable thumbs",
+        "primate face"
+    ],
+    "ship": [
+        "anchor",
+        "deck area",
+        "elongated structure",
+        "large size",
+        "large, elongated body",
+        "ship",
+        "sturdy hull",
+        "tall mast",
+        "tall masts",
+        "white sails"
+    ],
+    "truck": [
+        "boxy shape",
+        "cab section",
+        "cargo bed at the back",
+        "four large wheels",
+        "four or more wheels",
+        "front cab section",
+        "front grille",
+        "headlights and taillights",
+        "large size",
+        "rectangular cargo area",
+        "side mirrors",
+        "truck"
+    ]
+}
