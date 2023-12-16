@@ -7,3 +7,7 @@ The trained models can be downloaded [here](https://drive.google.com/drive/folde
 
 1. Install Python (3.9) and PyTorch (2.0.1).
 2. Install dependencies by running `pip install -r requirements.txt`
+
+## Reference
+
+[Label-free-CBM]([https://website-name.com](https://github.com/Trustworthy-ML-Lab/Label-free-CBM)https://github.com/Trustworthy-ML-Lab/Label-free-CBM)
