@@ -10,4 +10,4 @@ The trained models can be downloaded [here](https://drive.google.com/drive/folde
 
 ## Reference
 
-[Label-free-CBM]([https://website-name.com](https://github.com/Trustworthy-ML-Lab/Label-free-CBM)https://github.com/Trustworthy-ML-Lab/Label-free-CBM)
+![Label-free-CBM](https://website-name.com](https://github.com/Trustworthy-ML-Lab/Label-free-CBM)https://github.com/Trustworthy-ML-Lab/Label-free-CBM)
